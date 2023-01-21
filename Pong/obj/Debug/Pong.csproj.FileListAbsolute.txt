@@ -1,0 +1,10 @@
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.Form1.resources
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.csprojAssemblyReference.cache
+C:\Users\New User\source\repos\Pong\bin\Debug\Pong.exe.config
+C:\Users\New User\source\repos\Pong\bin\Debug\Pong.exe
+C:\Users\New User\source\repos\Pong\bin\Debug\Pong.pdb
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.exe
+C:\Users\New User\source\repos\Pong\obj\Debug\Pong.pdb
